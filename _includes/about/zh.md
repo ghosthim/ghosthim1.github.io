@@ -8,7 +8,7 @@
 
  <p>这个博客是在GITHUB@qiubaiying的全教程下搭建的，再次特别感谢这位大大。</p>
 
-##关于ICON##
+***关于ICON***
 ![](https://ghosthim.github.io/img/favicon.ico)    
 此icon来自ALIBABA的矢量图标库
 ![](https://ghosthim.github.io/img/in-post/about/%E6%8D%95%E8%8E%B7.JPG)
