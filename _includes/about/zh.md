@@ -7,6 +7,10 @@
  <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页<a href="https://github.com/ghosthim">GITHUB@ghosthim</a> 。如果有什么问题，欢迎提出探讨~</p>
 
  <p>这个博客是在GITHUB@qiubaiying的全教程下搭建的，再次特别感谢这位大大。</p>
-    
-  <h5>Talks</h5>
+
+##关于ICON##
+![](https://ghosthim.github.io/img/favicon.ico)    
+此icon来自ALIBABA的矢量图标库
+![](https://ghosthim.github.io/img/in-post/about/%E6%8D%95%E8%8E%B7.JPG)
+
 
