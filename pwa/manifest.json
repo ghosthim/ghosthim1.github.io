@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "年轻的木子",
+  "short_name":"YOUNGJE",
+  "description": "About Student in QLU",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
